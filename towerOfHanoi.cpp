@@ -1,7 +1,6 @@
-/*
 /****************************QUESTION**********************************/
 
-Problem Statement: Tower of Hanoi
+/*Problem Statement: Tower of Hanoi
 Problem Level: EASY
 Problem Description:
 Tower of Hanoi is a mathematical puzzle where we have three rods and n disks. The objective of the puzzle is to move all disks from source rod 
@@ -42,7 +41,6 @@ b c
 a c
 
 /**************************************ANSWER************************************************************/
-*/
 
 #include <iostream>
 
